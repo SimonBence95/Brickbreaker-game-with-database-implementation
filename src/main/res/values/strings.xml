@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exam simple</string>
+    <string name="start_game">Start Game</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="highscores">HighScores</string>
+    <string name="new_game">New Game</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_0_mp">0 mp</string>
+    <string name="username">Username</string>
+</resources>

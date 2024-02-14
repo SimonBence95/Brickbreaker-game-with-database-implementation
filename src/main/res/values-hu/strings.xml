@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZH beadando</string>
+    <string name="start_game">Indulás</string>
+    <string name="enter_your_username">Kérem adja meg a felhasználónevét:</string>
+    <string name="highscores">Rangsor</string>
+    <string name="new_game">Új Játék</string>
+    <string name="score_0">Pontszám: 0</string>
+    <string name="_0_mp">0 mp</string>
+    <string name="username">Felhasználónév</string>
+</resources>
