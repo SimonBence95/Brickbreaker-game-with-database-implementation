@@ -1,3 +1,3 @@
 # Working...
 
-Test project for practicing Kotlin Language
+Test project for practicing Kotlin Language game development
